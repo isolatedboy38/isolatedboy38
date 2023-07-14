@@ -1,4 +1,3 @@
-[![MasterHead](https://static.vecteezy.com/system/resources/previews/009/233/542/non_2x/data-analysis-banner-web-icon-set-analytics-search-data-mining-data-filter-pie-chart-and-etc-illustration-concept-vector.jpg)](https://moviefan.in)
 <h1 align="center">Hi 👋, I'm Fenal Sankhavara</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Girl in a jacket" width="400">
