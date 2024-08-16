@@ -3,11 +3,11 @@
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Girl in a jacket" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isolatedboy38&label=Profile%20views&color=0e75b6&style=flat" alt="isolatedboy38" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning Project**
+- 🔭 I’m currently working on **Something**
 
-- 🌱 I’m currently learning **ML and NLP**
+- 🌱 I’m currently learning **Something**
 
-- 💬 Ask me about **Django**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **fenalsankhavara35@gmail.com**
 
