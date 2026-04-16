@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Fenal!+👋;I'm+a+Data+Analyst;Always+learning+new+tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Hi+there,+I+am+Fenal!;I+am+a+Data+Analyst;Always+learning+new+tech" alt="Typing SVG" />
 </div>
 
 <h3 align="center">Transforming Data into Actionable Insights 📊</h3>
