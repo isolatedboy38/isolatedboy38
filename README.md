@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Hi+there,+I+am+Fenal!;I+am+a+Data+Analyst;Always+learning+new+tech" alt="Typing SVG" />
 </div>
 
-<h3 align="center">Transforming Data into Actionable Insights 📊</h3>
+<h3 align="center">Transforming Raw Data into Actionable Data 📊</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/fenal-sankhavara-95a067200" target="_blank">
@@ -31,7 +31,7 @@
 
 - 🔭 I’m currently working on **delivering data-driven solutions**
 - 🌱 I’m currently diving deeper into **Machine Learning and Cloud Data Pipelines**
-- 💬 Ask me about **Python, SQL, Data Visualization, or anything data!**
+- 💬 Ask me about **Python, Machine Learning, Artificial Intelligence or anything data!**
 - ⚡ Fun fact: **I think I am funny!**
 
 ---
