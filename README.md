@@ -8,18 +8,8 @@
 ### What I'm building
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/web3-dark.svg" />
-  <img src="assets/web3-light.svg" alt="Web3 solutions: dApps, smart contracts, wallet integrations, exchange APIs and on-chain analytics, built around crypto." width="100%" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/row1-dark.svg" />
-  <img src="assets/row1-light.svg" alt="Android and web apps: Flutter, React Native, Capacitor, Next.js, React, TypeScript, Tailwind CSS and Node.js, from Play Store games to web apps. Market tooling: bots and monitors for Indian and UK stocks and crypto. Every decision is logged, so a strategy has to prove itself." width="100%" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/row2-dark.svg" />
-  <img src="assets/row2-light.svg" alt="AI products: LLM agents, RAG chatbots, real-time assistants, text-to-SQL and workflow automation on Claude, OpenAI and open-source models. Custom business solutions: websites, stores, dashboards and internal tools built around how each business actually works, on WordPress, PHP, Shopify or a custom stack." width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/building-dark.svg" />
+  <img src="assets/building-light.svg" alt="Web3 solutions: dApps, smart contracts, wallet integrations, exchange APIs and on-chain analytics, built around crypto. Android and web apps: Flutter, React Native, Capacitor, Next.js, React, TypeScript, Tailwind CSS and Node.js, from Play Store games to web apps. Market tooling: bots and monitors for Indian and UK stocks and crypto. Every decision is logged, so a strategy has to prove itself. AI products: LLM agents, RAG chatbots, real-time assistants, text-to-SQL and workflow automation on Claude, OpenAI and open-source models. Custom business solutions: websites, stores, dashboards and internal tools built around how each business actually works, on WordPress, PHP, Shopify or a custom stack." width="100%" />
 </picture>
 
 ### Toolbox
