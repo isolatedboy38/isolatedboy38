@@ -9,6 +9,7 @@
 
 Most of my work lives in private repos, so here's the short version:
 
+- **Web3 solutions** — dApps, smart contracts, wallet integrations, exchange APIs and on-chain analytics, built around crypto.
 - **Android and web development** — Flutter, React Native, Capacitor, Next.js, React, TypeScript, Tailwind CSS and Node.js, from Play Store games to production web apps.
 - **Market tooling** — bots and monitors that watch Indian and UK stock markets alongside crypto, and log every decision, so I can check whether a strategy actually holds up.
 - **AI products** — LLM agents, RAG chatbots, real-time assistants, text-to-SQL and workflow automation, built on Claude, OpenAI and open-source models.
