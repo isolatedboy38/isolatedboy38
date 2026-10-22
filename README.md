@@ -9,7 +9,7 @@
 
 Most of my work lives in private repos, so here's the short version:
 
-- **Mobile puzzle games** — Android-first, built in Flutter and Capacitor, heading to the Play Store.
+- **Android and web development** — Flutter, React Native, Capacitor, Next.js, React, TypeScript, Tailwind CSS and Node.js, from Play Store games to production web apps.
 - **Market tooling** — bots and monitors that watch crypto markets and log every decision, so I can check whether a strategy actually holds up.
 - **AI products** — assistants and text-to-SQL experiments that turn plain questions into answers.
 - **Websites for small businesses** — WordPress, PHP and Shopify builds for real clients.
