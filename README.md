@@ -7,17 +7,20 @@
 
 ### What I'm building
 
-Most of my work lives in private repos, so here's the short version:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/web3-dark.svg" />
+  <img src="assets/web3-light.svg" alt="Web3 solutions: dApps, smart contracts, wallet integrations, exchange APIs and on-chain analytics, built around crypto." width="100%" />
+</picture>
 
-- **Web3 solutions** — dApps, smart contracts, wallet integrations, exchange APIs and on-chain analytics, built around crypto.
-- **Android and web development** — Flutter, React Native, Capacitor, Next.js, React, TypeScript, Tailwind CSS and Node.js, from Play Store games to production web apps.
-- **Market tooling** — bots and monitors that watch Indian and UK stock markets alongside crypto, and log every decision, so I can check whether a strategy actually holds up.
-- **AI products** — LLM agents, RAG chatbots, real-time assistants, text-to-SQL and workflow automation, built on Claude, OpenAI and open-source models.
-- **Custom business solutions** — websites, stores, dashboards and internal tools built around how each business actually works, using WordPress, PHP, Shopify or a fully custom stack.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/apps-dark.svg" /><img src="assets/apps-light.svg" alt="Android and web apps: Flutter, React Native, Capacitor, Next.js, React, TypeScript, Tailwind CSS and Node.js." width="49%" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/markets-dark.svg" /><img src="assets/markets-light.svg" alt="Market tooling: bots and monitors for Indian and UK stocks and crypto. Every decision is logged, so a strategy has to prove itself." width="49%" /></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ai-dark.svg" /><img src="assets/ai-light.svg" alt="AI products: LLM agents, RAG chatbots, real-time assistants, text-to-SQL and workflow automation on Claude, OpenAI and open-source models." width="49%" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/business-dark.svg" /><img src="assets/business-light.svg" alt="Custom business solutions: websites, stores, dashboards and internal tools built around how each business actually works, on WordPress, PHP, Shopify or a custom stack." width="49%" /></picture>
 
 ### Toolbox
 
-- **Data and ML:** Python, TensorFlow, PyTorch
-- **Apps and web:** TypeScript, Next.js, React, Flutter, Django, Flask, PHP
-- **Data stores:** PostgreSQL, MySQL, MongoDB, SQLite
-- **Running it:** Linux, Docker, AWS, GCP, Azure
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/toolbox-dark.svg" />
+  <img src="assets/toolbox-light.svg" alt="Data and ML: Python, TensorFlow, PyTorch. Apps and web: TypeScript, Next.js, React, React Native, Flutter, Capacitor, Tailwind CSS, Node.js. Backend: Django, Flask, PHP, WordPress, Shopify. Data stores: PostgreSQL, MySQL, MongoDB, SQLite. Running it: Linux, Docker, AWS, GCP, Azure." width="100%" />
+</picture>
