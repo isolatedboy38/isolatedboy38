@@ -1,79 +1,32 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Hi+there,+I+am+Fenal!;I+am+a+Data+Analyst;Always+learning+new+tech" alt="Typing SVG" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg" />
+  <img src="assets/hero-light.svg" alt="Fenal Sankhavara. Data scientist in Bangalore. I build things, then measure whether they worked." width="100%" />
+</picture>
 
-<h3 align="center">Transforming Raw Data into Actionable Data 📊</h3>
+[LinkedIn](https://linkedin.com/in/fenal-sankhavara-95a067200) &nbsp;/&nbsp; [YouTube](https://www.youtube.com/c/fenalspace) &nbsp;/&nbsp; [Instagram](https://instagram.com/imfenal) &nbsp;/&nbsp; [moviefan.in](https://moviefan.in) &nbsp;/&nbsp; [Email](mailto:fenalsankhavara35@gmail.com)
 
-<p align="center">
-  <a href="https://linkedin.com/in/fenal-sankhavara-95a067200" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/imfenal" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.youtube.com/c/fenalspace" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="mailto:fenalsankhavara35@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+### What I'm building
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=isolatedboy38&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+Most of my work lives in private repos, so here's the short version:
 
-<br/>
+- **Mobile puzzle games** — Android-first, built in Flutter and Capacitor, heading to the Play Store.
+- **Market tooling** — bots and monitors that watch crypto markets and log every decision, so I can check whether a strategy actually holds up.
+- **AI products** — assistants and text-to-SQL experiments that turn plain questions into answers.
+- **Websites for small businesses** — WordPress, PHP and Shopify builds for real clients.
 
----
+### Open source
 
-### 👨‍💻 About Me
+| Project | What it does |
+| --- | --- |
+| [text-to-sql](https://github.com/isolatedboy38/text-to-sql) | Ask a database a question in plain English, get the SQL back. |
+| [torcloud](https://github.com/isolatedboy38/torcloud) | Download torrents straight to Google Drive. |
+| [AnimFan](https://github.com/isolatedboy38/AnimFan) | API that collects anime streaming and discovery data from several sites. |
+| [CUDSS](https://github.com/isolatedboy38/CUDSS-Secure-Web-Based-Chat-App) | Web chat app built around keeping user data confidential. |
+| [studygenie](https://github.com/isolatedboy38/studygenie-whatsapp-chatbot) | WhatsApp chatbot that helps with studying. |
 
-- 🔭 I’m currently working on **delivering data-driven solutions**
-- 🌱 I’m currently diving deeper into **Machine Learning and Cloud Data Pipelines**
-- 💬 Ask me about **Python, Machine Learning, Artificial Intelligence or anything data!**
-- ⚡ Fun fact: **I think I am funny!**
+### Toolbox
 
----
-
-### 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <strong>Data Science & Backend</strong><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,django,flask,java,c,cpp" alt="Data Science & Backend Tools" />
-  </a>
-</p>
-
-<p align="left">
-  <strong>Databases & Cloud</strong><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,aws,azure,gcp" alt="Databases and Cloud Tools" />
-  </a>
-</p>
-
-<p align="left">
-  <strong>Frontend & Tools</strong><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,html,css,js,figma,bash,linux,git" alt="Frontend and DevOps Tools" />
-  </a>
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=isolatedboy38&show_icons=true&theme=radical&hide_border=true" alt="Fenal's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=isolatedboy38&theme=radical&hide_border=true" alt="Fenal's Streak" />
-      </td>
-    </tr>
-  </table>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isolatedboy38&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+- **Data and ML:** Python, TensorFlow, PyTorch
+- **Apps and web:** TypeScript, Next.js, React, Flutter, Django, Flask, PHP
+- **Data stores:** PostgreSQL, MySQL, MongoDB, SQLite
+- **Running it:** Linux, Docker, AWS, GCP, Azure
