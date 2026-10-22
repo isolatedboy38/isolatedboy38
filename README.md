@@ -14,16 +14,6 @@ Most of my work lives in private repos, so here's the short version:
 - **AI products** — LLM agents, RAG chatbots, real-time assistants, text-to-SQL and workflow automation, built on Claude, OpenAI and open-source models.
 - **Custom business solutions** — websites, stores, dashboards and internal tools built around how each business actually works, using WordPress, PHP, Shopify or a fully custom stack.
 
-### Open source
-
-| Project | What it does |
-| --- | --- |
-| [text-to-sql](https://github.com/isolatedboy38/text-to-sql) | Ask a database a question in plain English, get the SQL back. |
-| [torcloud](https://github.com/isolatedboy38/torcloud) | Download torrents straight to Google Drive. |
-| [AnimFan](https://github.com/isolatedboy38/AnimFan) | API that collects anime streaming and discovery data from several sites. |
-| [CUDSS](https://github.com/isolatedboy38/CUDSS-Secure-Web-Based-Chat-App) | Web chat app built around keeping user data confidential. |
-| [studygenie](https://github.com/isolatedboy38/studygenie-whatsapp-chatbot) | WhatsApp chatbot that helps with studying. |
-
 ### Toolbox
 
 - **Data and ML:** Python, TensorFlow, PyTorch
